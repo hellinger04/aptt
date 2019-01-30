@@ -1,9 +1,9 @@
 # aptt
-*Website for A Place to Talk (pages.jh.edu/aptt).*
+**Website for A Place to Talk (pages.jh.edu/aptt).**
 
 ## Getting Started
-*To make any changes to the A Place to Talk (APTT) website, you will need to
-follow the setup instructions below.*
+**To make any changes to the A Place to Talk (APTT) website, you will need to
+follow the setup instructions below.**
 
 First, ask the APTT Co-Directors to request website access for you and any
 other member who is authorized to modify the website. The Co-Directors must
@@ -12,7 +12,7 @@ who are requesting access.
 
 Once you have been given access to modify the website, you will need to install
 software to access the JH file system. The easiest program to use is called
-CyberDuck (https://cyberduck.io/, Mac and Windows). You can see a sample
+[CyberDuck](https://cyberduck.io/) (Mac and Windows). You can see a sample
 screenshot for the setup at http://pages.jh.edu/~websvcs/cyberduck-setup.png.  
 Make sure you change the drop-down item to have "HTTP/SSL" instead of plain
 HTTP. You also must change the JHED fields to match your JHED. You must create a
@@ -51,16 +51,16 @@ definitely be edited, but they usually contain more vital code which may cause
 problems on the website if improperly modified. You are more than welcome to
 make more substantial changes to the website, including completely re-doing the
 website, if you want. Before you make any substantial or complex changes,
-however, be sure that you are familiar with HTML and CSS, and maybe even 
+however, be sure that you are familiar with HTML and CSS, and maybe even
 JavaScript if you would really like to customize the behavior of the website.
 
-Also be sure to work with *many* backups of the website throughout development -
-this will help to ensure you don't This will take a little extra time to set up
-and maintain throughout development, but will save you *hours* of time if you
-make a mistake. Git is a great version control system that allows you to upload
-and track versions of your code throughout development (like Google Drive for
-developers). Two of the most popular Git hosting repositories are GitHub
-(https://github.com/) and BitBucket (https://bitbucket.org/).
+Also, be sure to work with **many** backups of the website during development.
+This will take a little extra time to set up and maintain, but will save you
+**hours** of time if you make a mistake. Git is a great version control system
+that allows you to upload and track versions of your code throughout development
+(like Google Drive for developers). Two of the most popular Git hosting
+repositories are GitHub (https://github.com/) and BitBucket
+(https://bitbucket.org/).
 
 ## Learning Resources
 Web design skills are very useful and are fun to learn. If you are interested in
