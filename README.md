@@ -70,4 +70,4 @@ many great resources on the internet. Here are some to get you started:
 [HTML Tutorial](https://www.w3schools.com/html/),
 [CSS Tutorial](https://www.w3schools.com/css/),
 [JavaScript Tutorial](https://www.w3schools.com/js/),
-[Git Handbook](https://guides.github.com/introduction/git-handbook/), 
+[Git Handbook](https://guides.github.com/introduction/git-handbook/).
