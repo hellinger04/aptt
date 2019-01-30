@@ -69,5 +69,5 @@ learning more about HTML, CSS, JavaScript, and web design in general, there are
 many great resources on the internet. Here are some to get you started:
 [HTML Tutorial](https://www.w3schools.com/html/),
 [CSS Tutorial](https://www.w3schools.com/css/),
-[JavaScript Tutorial](https://www.w3schools.com/js/),
+[JavaScript Tutorial](https://www.w3schools.com/js/), and 
 [Git Handbook](https://guides.github.com/introduction/git-handbook/).
