@@ -1,9 +1,14 @@
 # aptt
 **Website for A Place to Talk (pages.jh.edu/aptt).**
 
+The purpose of this README is to increase maintainability of the A Place to Talk
+(APTT) website. Hopefully, the information below and the comments in the website
+code make it easy for any future member to make necessary changes to the
+website.
+
 ## Getting Started
-**To make any changes to the A Place to Talk (APTT) website, you will need to
-follow the setup instructions below.**
+**To make any changes to the APTT website, you will need to follow the setup
+instructions below.**
 
 First, ask the APTT Co-Directors to request website access for you and any
 other member who is authorized to modify the website. The Co-Directors must
@@ -19,7 +24,7 @@ have "HTTP/SSL" instead of plain HTTP. You also must change the JHED fields to
 match your JHED. You must create a "bookmark" to get the "more options" section
 so you can enter the correct path. "Open Connection" will not work as it does
 not have the "more options" section in the dialog box. Files must go in the
-`public_html` directory (folder). The `public_html` directory itself must NEVER
+`public_html` directory (folder). The `public_html` directory must **never**
 be deleted, but you can delete anything within it as needed. If you have any
 questions throughout this setup process,
 [contact JH IT](https://it.johnshopkins.edu/help/).
@@ -42,8 +47,8 @@ Throughout the `index.html` document, you will find comments (these begin with
 to help indicate how to edit content on the website. Look for the comments that
 include `begin modify me` - these indicate the beginning of a section of the
 code containing text that can easily be modified to change website content. A
-description of what part of the website the section corresponds to is usually
-included in this comment as well. The end of these modifiable sections is
+description of what part of the website the section represents is usually
+included within the comment as well. The end of these modifiable sections is
 denoted with another comment that includes `end modify me`.
 
 ### More Complex Edits
@@ -64,10 +69,10 @@ repositories are [GitHub](https://github.com/) and
 [BitBucket](https://bitbucket.org/).
 
 ## Learning Resources
-Web design skills are very useful and are fun to learn. If you are interested in
+Web design skills are very useful and fun to learn. If you are interested in
 learning more about HTML, CSS, JavaScript, and web design in general, there are
 many great resources on the internet. Here are some to get you started:
 [HTML Tutorial](https://www.w3schools.com/html/),
 [CSS Tutorial](https://www.w3schools.com/css/),
-[JavaScript Tutorial](https://www.w3schools.com/js/), and 
+[JavaScript Tutorial](https://www.w3schools.com/js/), and
 [Git Handbook](https://guides.github.com/introduction/git-handbook/).
